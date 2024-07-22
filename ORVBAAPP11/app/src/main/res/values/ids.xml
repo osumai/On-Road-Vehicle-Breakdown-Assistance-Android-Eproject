@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="signup_text_view" type="id">SignupTV</item>
+    <item name="phone_number_edit_text" type="id">PhoneNumberET</item>
+    <item name="role_edit_text" type="id">RoleET</item>
+    <item name="password_text_view" type="id">PasswordTV</item>
+    <item name="approved_text_view" type="id">ApprovedTV</item>
+    <item name="location_text_view" type="id">locationTextView</item>
+    <item name="services_text_view" type="id">servicesTextView</item>
+    <item name="feedback_edit_text" type="id">feedbackET</item>
+    <item name="post_button" type="id">postBtn</item>
+    <item name="feedback_list_view" type="id">feedbackListView</item>
+    <item name="location_edit_text" type="id">locationET</item>
+    <item name="services_edit_text" type="id">servicesET</item>
+    <item name="search_edit_text" type="id">searchET</item>
+    <item name="search_button" type="id">searchBtn</item>
+    <item name="mechanics_list_view" type="id">mechanicsLV</item>
+    <item name="feedback_text_view" type="id">feedbackTV</item>
+    <item name="recycler_view" type="id" />
+    <item name="btnLogin" type="id">Log In</item>
+    <item name="btnSignUp" type="id">Sign Up</item>
+</resources>

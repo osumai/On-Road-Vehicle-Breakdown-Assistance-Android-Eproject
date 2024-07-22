@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">ORVBAAPP11</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="need_an_account">Create Account</string>
+    <string name="phone">Phone</string>
+    <string name="role">Client or Mechanic?</string>
+    <string name="on_road_vehicle_breakdown_assistance_orvba_signup">On Road Vehicle Breakdown Assistance (ORVBA)</string>
+    <string name="todo">todoMain</string>
+    <string name="or">or</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login_signup">Login</string>
+    <string name="todo_signup">d</string>
+    <string name="post_feedback">Post Feedback</string>
+    <string name="enter_your_feedback">Enter your feedback</string>
+    <string name="post_feedbackx">Post </string>
+    <string name="read_feedback">Client Feedback</string>
+</resources>
